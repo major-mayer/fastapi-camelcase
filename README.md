@@ -6,6 +6,7 @@ Package for providing a class for camelizing request and response bodies for fas
 while keeping your python code snake cased.
 
 Full documentation can be found [here](https://nf1s.github.io/fastapi-camelcase/)
+Forked to support mypy because my original PR was never merged: https://github.com/nf1s/fastapi-camelcase/pull/19
 
 ## How to install
 
